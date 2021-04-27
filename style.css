@@ -1,0 +1,40 @@
+h1 {border-style: solid;
+    border-width:2px ;
+    border-color: blue;
+    font-weight:bold; 
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+body {text-align:center;
+    background-color: crimson;}
+  
+    img {
+        width: 240px;
+        Height: 240px;
+    }
+    
+    title {
+        text-align: center;
+    }
+    
+    #myCarousel {
+        background-color: red;
+    }
+    
+    #myCarousel img {
+        height: 300px;
+        margin-top: 35px;
+    }
+    
+    .carousel-inner p {
+        margin-bottom: 15px;
+        margin-top: 15px;
+        color: white;
+        font-size: 20px;
+    }
+    
+    .container {
+        text-align: center;
+    }
+    
+    #Grid Gallery {display:inline;}
+    
